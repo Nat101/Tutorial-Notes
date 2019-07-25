@@ -11,4 +11,7 @@
  2. Name and describe repository
  3. Choose whether to make your project public or private
  4. Check the box: <Initialize this repository with a README>
+ 
+ # Cloning repository and working on home computer
+  1. 
 
