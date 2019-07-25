@@ -13,5 +13,11 @@
  4. Check the box: <Initialize this repository with a README>
  
  # Cloning repository and working on home computer
-  1. 
+  1. Select repository
+  2. Select <clone or download> upper right corner, green button
+  3. Select clipboard icon to copy URL
+  4. Open terminal on computer
+  5. Navigate to desired destination
+  6. Type < git clone > then paste copied URL
+  7. 
 
