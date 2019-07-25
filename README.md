@@ -1,9 +1,9 @@
 # Tutorial-Notes
 
 # Definitions:
- Repository = Project
- Readme = Instructions/ notes for users
- Clone = allows you to download repository to home computer
+ 1. Repository = Project
+ 2. Readme = Instructions/ notes for users
+ 3. Clone = allows you to download repository to home computer
 
 
 # Getting Started:
