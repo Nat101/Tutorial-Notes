@@ -38,7 +38,7 @@
  # Branches
   1. <git branch -a> (lists all branches, *is current working branch)
   2. <git branch > Branch name (creates new working branch)
-  2. <git checkout > Branch name (switches current working branch)
-  3. <git checkout -b > Branch name (creates and switches working branch)
+  3. <git checkout > Branch name (switches current working branch)
+  4. <git checkout -b > Branch name (creates and switches working branch)
   
 
