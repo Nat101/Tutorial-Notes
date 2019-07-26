@@ -21,7 +21,7 @@
   5. Navigate to desired directory
   6. Type <git clone > then paste copied URL
   
- # Uploading editted repository
+ # Upload modified repository
   1. Open terminal on computer
   2. Navitgate to directory
   3. Type <git status> (this shows all difference between git repository and local files)
@@ -32,6 +32,19 @@
       or type <git commit -m "type note/message here in quotes">
   6. Type <git push> (this syncs the commit to repository)
   
- # 
+ # Download modified repository
   1. Type <git pull>
+  
+ # Create Branch
+  1. <git branch -a> (lists all branches, *is current working branch)
+  2. <git branch > Branch name (creates new working branch)
+  3. <git checkout > Branch name (switches current working branch)
+  4. <git checkout -b > Branch name (creates and switches working branch)
+  
+ # Merge Branch with Master
+  1. <git checkout master>
+  2. <git merge > Branch name
+  
+  
+  
 
