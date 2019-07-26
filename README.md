@@ -1,4 +1,5 @@
 # Tutorial-Notes
+ 1. In computer terminal: <git help>
 
 # Definitions:
  1. Repository = Project
