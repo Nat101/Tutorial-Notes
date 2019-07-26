@@ -44,6 +44,13 @@
  # Merge Branch with Master
   1. <git checkout master>
   2. <git merge > Branch name
+
+ # Conflicts with Master
+  1. go to text editor, correct highlighted conflicts
+  2. add, commit, push
+  3. interactive mode will appear, type <:wq> (exits)
+ 
+ 
   
   
   
