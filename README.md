@@ -5,7 +5,11 @@
  1. Repository = Project
  2. Readme = Instructions/ notes for users
  3. Clone = allows you to download repository to home computer
-
+ 4. Committ
+ 5. Push
+ 6. Pull or Fetch
+ 7. Master = Mainline of code
+ 8. Branch = changes made to clone
 
 # Getting Started:
  1. In repositories select <New>
